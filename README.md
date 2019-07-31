@@ -1,2 +1,2 @@
 # Old-Gold
-Plasme Theme
+Plasma Theme
