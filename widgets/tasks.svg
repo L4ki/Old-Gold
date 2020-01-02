@@ -203,14 +203,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="35.831636"
-     inkscape:cy="17.720245"
+     inkscape:zoom="16"
+     inkscape:cx="24.48067"
+     inkscape:cy="18.14756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -232,7 +232,7 @@
      id="layer1"
      transform="translate(-322.65179,-719.03571)">
     <rect
-       style="opacity:0.875;fill:#93a8d8;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.875;fill:#7f7443;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="hint-stretch-borders"
        width="1"
        height="0.99414408"
